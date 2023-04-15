@@ -1,0 +1,41 @@
+.business{
+    background-color: #2874f0;
+    height: 102px;
+    display: flex;
+    justify-content: flex-start;
+}
+.business img{
+    width: 12vw;
+    margin: 15px 0 0 138px;
+    height: 64px;
+}
+.business input{
+    margin: 33px 4px;
+    padding: 0px 19px;
+    height: 2.5vw;
+    width: 26vw;
+}
+.business button{
+    
+    height: 41px;
+    width: 102px;
+    padding: 11px;
+    margin: 31px 10px;
+
+}
+.business span{
+    color: white;
+    font-size: 19px;
+    font-style: normal;
+    margin: 41px 29px;
+    cursor: pointer;
+}
+.business span{
+   margin:  39px 23px 1px 102px;
+}
+.business1 img{
+    border-radius: 26px;
+    background-color: yellow ;
+    height: 57px;
+    margin: 0px 0px 1px 158px;
+}
