@@ -30,12 +30,28 @@
     margin: 41px 29px;
     cursor: pointer;
 }
-.business span{
-   margin:  39px 23px 1px 102px;
+.dropdown span{
+   
+    padding: 1px 0px 29px 0px;
+    height: 0px;
+    margin: 0px 1px 0px 45px;
 }
 .business1 img{
     border-radius: 26px;
-    background-color: yellow ;
+    background-color: yellow;
     height: 57px;
-    margin: 0px 0px 1px 158px;
+    margin: 9px 45px;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: normal;
+}
+.dropdown button{
+    
+            background: blue;
+            border: 0;
+}
+.business1{
+    display: flex;
+        justify-content: center;
+        align-items: center;
 }
